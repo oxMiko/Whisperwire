@@ -41,7 +41,7 @@ Here are some of the popular commands available:
 
 ## 💬 Invite WhisperWire
 
-Want to try it out? [**Invite WhisperWire to your server**](https://your-invite-link.com) and bring life to your community.
+Want to try it out? [**Invite WhisperWire to your server**](https://ww.miko-dev.co.uk) and bring life to your community.
 
 ---
 
