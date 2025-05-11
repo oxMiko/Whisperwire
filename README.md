@@ -49,10 +49,10 @@ Want to try it out? [**Invite WhisperWire to your server**](https://your-invite-
 
 Need help or have suggestions?
 
-* 📘 [Terms of Service](https://your-tos-link.com)
-* 🔒 [Privacy Policy](https://your-privacy-policy-link.com)
-* 🛠️ [Contact Support](mailto:support@whisperwire.com)
+* 📘 [Terms of Service](https://ww.miko-dev.co.uk/tos)
+* 🔒 [Privacy Policy](https://ww.miko-dev.co.uk/privacy)
+* 🛠️ [Contact Support](https://ww.miko-dev.co.uk/support)
 
 ---
 
-© 2025 WhisperWire. All rights reserved.
+-# © 2025 WhisperWire. All rights reserved.
