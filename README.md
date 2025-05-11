@@ -1,5 +1,7 @@
 # 🧠 WhisperWire
 
+`For security and privacy purposes, all sensitive data—including IDs and tokens—has been carefully removed.`
+
 **WhisperWire** is the ultimate all-in-one Discord bot designed to supercharge your server with modern features, intelligent automation, and engaging community tools. Whether you're running a small community or managing a large server, WhisperWire has the tools to make your life easier and your server more fun.
 
 ---
