@@ -55,4 +55,4 @@ Need help or have suggestions?
 
 ---
 
--# © 2025 WhisperWire. All rights reserved.
+### © 2025 WhisperWire. All rights reserved.
