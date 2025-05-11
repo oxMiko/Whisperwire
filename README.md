@@ -1,7 +1,5 @@
 # 🧠 WhisperWire
 
-![WhisperWire Logo](https://media.discordapp.net/attachments/1367593763899310222/1371149737301905579/whisperwire.png?ex=68221634&is=6820c4b4&hm=12efb77b7d1a3a49686c9b0c03aecd8aa6bfdc86a8f2d61247c5a06a3d9c66f5&=&format=webp&quality=lossless&width=960&height=256)
-
 **WhisperWire** is the ultimate all-in-one Discord bot designed to supercharge your server with modern features, intelligent automation, and engaging community tools. Whether you're running a small community or managing a large server, WhisperWire has the tools to make your life easier and your server more fun.
 
 ---
